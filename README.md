@@ -62,7 +62,7 @@ Aplikasi ini dibuat sebagai bagian dari *UTS Pemrograman Mobile 2*.
 ![edit Profile](assets/screenshots/edit_profile.jpg) <br>
 
 ### About
-![about](assets/screenshots/about.jpg) <br>
+![about]() <br>
 
 ### Link Google Drive Video Demo
 https://drive.google.com/drive/folders/1qD1-3n6TKLT51VfSTGYAB4ZnfA2xLhZb?usp=sharing
