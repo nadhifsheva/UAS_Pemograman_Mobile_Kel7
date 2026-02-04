@@ -68,9 +68,9 @@ Aplikasi ini dibuat sebagai bagian dari *UTS Pemrograman Mobile 2*.
 https://drive.google.com/drive/folders/1qD1-3n6TKLT51VfSTGYAB4ZnfA2xLhZb?usp=sharing
 
 ## Kelompok 7
-Adi Esa Putra 23552011230
-Candra Lesmana	23552011071
-M. Ilham Abdul Halim	23552011266
-Rival Maulana	23552011056
-Rizal Abdul Ghani	23552011086
-Sheva Nadhif Gazzauhar	23552011018
+Adi Esa Putra 23552011230<br>
+Candra Lesmana	23552011071<br>
+M. Ilham Abdul Halim	23552011266<br>
+Rival Maulana	23552011056<br>
+Rizal Abdul Ghani	23552011086<br>
+Sheva Nadhif Gazzauhar	23552011018<br>
