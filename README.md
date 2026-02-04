@@ -64,7 +64,13 @@ Aplikasi ini dibuat sebagai bagian dari *UTS Pemrograman Mobile 2*.
 ### About
 ![about](assets/screenshots/about.jpg) <br>
 
-## Data Diri
-Nama : Rizal Abdul Ghani<br>
-Nim : 23552011086<br>
-Kelas : TIF RP 23 CID B<br>
+### Link Google Drive Video Demo
+https://drive.google.com/drive/folders/1qD1-3n6TKLT51VfSTGYAB4ZnfA2xLhZb?usp=sharing
+
+## Kelompok 7
+Adi Esa Putra 23552011230
+Candra Lesmana	23552011071
+M. Ilham Abdul Halim	23552011266
+Rival Maulana	23552011056
+Rizal Abdul Ghani	23552011086
+Sheva Nadhif Gazzauhar	23552011018
